@@ -50,8 +50,8 @@ The script will also print summary statistics and estimated change rates for tem
 
 ## Notes
 - All temperatures are in Fahrenheit (°F)
-- Precipitation is measured in millimeters (mm)
-- Grass seed production is measured in pounds
+- Precipitation is measured in inches (in)
+- Grass seed production is measured in pounds (lbs)
 
 ## Future Improvements
 - Incorporate real agricultural data from reliable sources
